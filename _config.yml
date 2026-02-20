@@ -22,8 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "AboutMe.md", title: My Info, sidebaricon: address-card}
   - {file: "201 A3 Lab 5 report", title: "Stiffened Aluminum Panel"}
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:geonyeonghong94@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/SamH722"}
+  - {title: Email, url: "mailto:geonyeonghong94@gmail.com"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/geonyeong-hong-984880344/"}
 
 comments:
