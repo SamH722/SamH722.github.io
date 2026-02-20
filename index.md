@@ -8,3 +8,6 @@ title: "About me"
 
 ## Projects
 
+### Project 1: Aluminum Stiffened Panel Stress Analysis
+![Stiffened Panel](images/StiffenedPanel.png)
+
