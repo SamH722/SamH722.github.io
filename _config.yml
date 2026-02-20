@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Email, url: "mailto:geonyeonghong94@gmail.com"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/geonyeong-hong-984880344/"}
-  - {file: "Geonyeong (Sam) Hong Resume.pdf", title: "CV"}
+  - {file: "Sam_Hong_Resume.pdf", title: "CV"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
