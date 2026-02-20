@@ -19,7 +19,6 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Geonyeong (Sam) Hong Resume.pdf", title: "CV"}
-  - {file: "AboutMe.md", title: My Info, sidebaricon: address-card}
   - {file: "Projects.md", title: "Projects"}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Email, url: "mailto:geonyeonghong94@gmail.com"}
