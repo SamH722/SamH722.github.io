@@ -24,7 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:geonyeonghong94@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/SamH722"}
-  - {title: LinkedIn, icon: LinkedIn, url: "https://www.linkedin.com/in/geonyeong-hong-984880344/"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/geonyeong-hong-984880344/"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
