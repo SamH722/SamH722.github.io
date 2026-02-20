@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Geonyeong (Sam) Hong Resume", title: "CV", icon: home}
+  - {file: "Geonyeong (Sam) Hong Resume", title: "CV"}
   - {file: "README.md", title: About me, sidebaricon: address-card}
   - {file: "201 A3 Lab 5 report", title: "Stiffened Aluminum Panel"}
 external:                       # accepts {file, title, url, icon, sidebaricon}
