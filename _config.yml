@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Geonyeong (Sam) Hong Resume.pdf", title: "CV"}
   - {file: "AboutMe.md", title: My Info, sidebaricon: address-card}
-  - {file: "201 A3 Lab 5 report", title: "Stiffened Aluminum Panel"}
+  - {file: "Projects.md", title: "Projects"}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Email, url: "mailto:geonyeonghong94@gmail.com"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/geonyeong-hong-984880344/"}
